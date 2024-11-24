@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # first_flutter
 
 A new Flutter project.
@@ -19,3 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # MovieApp
 a flutter app that show recent 20 movies and popular 20 movies, using TheMovieDB api.
 >>>>>>> 0a48d33d4ffe4272951559a56ca82e4da554adcb
+=======
+# MoviesApp
+a flutter app that show recent 20 movies and popular 20 movies using TheMovieDB api.
+>>>>>>> 2f2e59a222985f6afe55b6b40b23467f578977f8
