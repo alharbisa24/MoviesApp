@@ -40,7 +40,7 @@ class MovieListScreen extends StatefulWidget {
 }
 
 class _MovieListScreenState extends State<MovieListScreen> {
-  final String apiKey = "889a7bdb84870bf8c42217db0246d8eb"; // Replace with your TMDb API key
+  final String apiKey = "YOUR_API_KEY"; // Replace with your TMDb API key
   final String apiUrl = "https://api.themoviedb.org/3";
 
 
